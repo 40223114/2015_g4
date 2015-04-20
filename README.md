@@ -21,3 +21,5 @@
 waffle連結:https://waffle.io/40223114/2015_g4
 
 github連結:https://github.com/40223114/2015_g4
+
+openshift連結:http://2015g4-40223114.rhcloud.com/
